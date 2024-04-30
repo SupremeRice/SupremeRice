@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Anthonee Emar
 
 <!--
 **SupremeRice/SupremeRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Number | Item | Description |
+|:----   | :--: | ----------: |
+|1.      | Project 2 | Getting Test Scores |
+|2.      | Class Activity 14 | Movie Theater Simulator |
+|3.      | Lab 7 | Advanced Movie Theater Simulator |
+|4.      | Lab 4 | Random Number Activity | 
+|5.      | Class Activity 29 | Examples of all Data Structure review |
